@@ -25,9 +25,6 @@ Unit 8 - Simple Harmonic Motion
 
 Graphing
 
-https://youtu.be/TYOUNd0t17I;
-https://youtu.be/gT1WGAQtfog
-
 Multivariable Calculus
 
 # Resources Types
