@@ -3,6 +3,7 @@ Mr. Keye's Physics website
 
 Filters: by unit, resource type, alphabetical
 
+# Units
 
 Unit 1 - 1D Kinematics
 
@@ -19,3 +20,17 @@ Unit 6 - Circular Motion and Gravitation
 Unit 7 - Rotational Dynamics
 
 Unit 8 - Simple Harmonic Motion
+
+Graphing
+
+Multivariable Calculus
+
+# Resources Types
+
+Video
+
+Textbook
+
+Article
+
+Simulation
