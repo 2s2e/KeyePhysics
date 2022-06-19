@@ -1,6 +1,8 @@
 # KeyePhysics
 Mr. Keye's Physics website
 
+Filters: by unit, resource type, alphabetical
+
 
 Unit 1 - 1D Kinematics
 
